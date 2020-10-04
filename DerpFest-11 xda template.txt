@@ -1,0 +1,88 @@
+[CENTER][IMG]https://raw.githubusercontent.com/kaderbava/Documents/master/images%20(4).jpeg[/IMG]
+
+[CODE][B]**** Disclaimer: I'm not responsible if you destroy your device. Use at your own risk!!! ****[/B][/CODE]
+[IMG]https://i.ibb.co/6Z7T4WB/about.png[/IMG]
+[SIZE="7"][COLOR="MediumTurquoise"][B]DerpFest 11[/B][/SIZE][/COLOR]
+[SIZE="4"][FONT="Microsoft Sans Serif"]Derpfest is an UNOFFICIAL, heavily customized build of AOSiP. It uses a base of AOSiP and adds features that AOSiP doesn't have.
+Note: AOSiP and DerpFest teams are in no way related.[/SIZE][/FONT]
+
+[IMG]https://i.ibb.co/0GR6F4Q/team.png[/IMG]
+[FONT="Century Gothic"][COLOR="MediumTurquoise"][B][SIZE="4"]Alexander Brunswig[/SIZE][/B][/COLOR][/FONT]([URL="https://forum.xda-developers.com/member.php?u=5974762"]NurKeinNeid[/URL])
+[FONT="Century Gothic"][COLOR="MediumTurquoise"][B][SIZE="4"]David Setiawan[/SIZE][/B][/COLOR][/FONT]
+
+[IMG]https://i.ibb.co/CBwmmdS/report.png[/IMG]
+[HIDE]
+[SIZE="2"][LIST=1]
+[*]DO NOT Report bugs if you're running a custom kernel or you installed Xposed
+[*]Grab a logcat right after the problem has occurred. (Please include at least a few pages of the log, not just the last few lines, unless you know what you're doing.)
+[*]If it is a random reboot, grab dmesg . (Do not bother getting a logcat unless you can get it just before the reboot. A logcat after a reboot is useless)
+[*]If the problem disappears after running "setenforce 0" from a root shell, grab /data/misc/audit/audit.log
+[*]Remember to provide as much info as possible. The more info you provide, the more likely that the bug will be solved. Please also do not report known issues.
+[/LIST][/SIZE]
+[/HIDE]
+[IMG]https://i.ibb.co/7zvtgYT/source.png[/IMG]
+[HIDE]
+[SIZE="4"][FONT="Verdana"][B][URL="https://github.com/DerpFest-11"]DerpFest Github[/URL]
+[URL="https://github.com/DerpFest-Devices/device_realme_RMX1921"]Device Tree[/URL]
+[URL="https://github.com/kaderbava/android_kernel_realme_RMX1921"]Device Kernel[/URL][/B][/FONT][/SIZE]
+[/HIDE]
+
+[IMG]https://i.ibb.co/QNXw0RJ/website.png[/IMG]
+[HIDE][SIZE="5"][FONT="Verdana"]
+[B][URL="https://derpfest.org"]derpfest.org[/URL][/B]
+[/FONT][/SIZE][/HIDE]
+
+[IMG]https://i.ibb.co/JFyZvSq/download.png[/IMG]
+[HIDE][SIZE="4"][COLOR="Blue"][B]DON'T FLASH GAPPS, ALREADY INCLUDED[/B][/SIZE][/COLOR]
+[SIZE="4"][FONT="Verdana"]
+[B][URL="https://sourceforge.net/projects/derpfest/files/RMX1921/DerpFest-11-Official-Alpha-RMX1921-20201003.zip/download"]GApps Build[/URL][/B][/FONT]
+[/SIZE][/HIDE]
+[IMG]https://i.ibb.co/7vMRxG5/install.png[/IMG]
+[HIDE]
+[SIZE="5"][B][color=#0060FF]First Time Install / Clean Flash[/COLOR][/B][/SIZE]
+[COLOR="red"]Make Sure you are Flashing it over Any Realme UI Firmware/ Don't flash it over Color os Firmware!![/COLOR]
+- Make sure you're running the latest TWRP/OrangeFox
+- Boot into recovery
+- Wipe System, vendor, data, cache and dalvik cache 
+- Flash  ROM.zip
+- Format data
+- Reboot to recovery (optional)
+- Flash Magisk.zip (optional)
+- Reboot to system
+[SIZE="5"][B][color=#0060FF]Update / Dirty Flash[/COLOR][/B][/SIZE]
+- Boot into recovery
+- Wipe cache and dalvik cache 
+- Flash  ROM.zip
+- Reboot to recovery (optional)
+- Flash Magisk.zip (optional)
+- Reboot to system
+[b] First boot will take few minutes! Have patience! 
+Clean Flash is always recommended![/b][/HIDE]
+[IMG]https://i.ibb.co/hscQTXb/bug.png[/IMG]
+[HIDE]
+[FONT="Verdana"][SIZE="3"]
+- Any other? Report me with proper logs[/SIZE][/FONT]
+[/HIDE]
+[IMG]https://i.ibb.co/9vkgXzm/credit.png[/IMG]
+[HIDE]
+[FONT="Verdana"][SIZE="3"]
+[COLOR="Blue"]Mike Williams (founder and creator of AOSiP)[/COLOR]
+[COLOR="Lime"]Google for Android and AOSP[/COLOR]
+[COLOR="SandyBrown"]LineageOS[/COLOR]
+[COLOR="DarkSlateBlue"]AICP[/COLOR]
+[COLOR="DarkOrange"]ABC ROM[/COLOR]
+[COLOR="RoyalBlue"]PixelExperience[/COLOR]
+[COLOR="Green"]OmniROM[/COLOR]
+[COLOR="DarkOrchid"]AquariOS[/COLOR]
+[COLOR="Blue"]BootleggersROM[/COLOR]
+---------
+Any others we may have forgotten to credit
+And last but not the least, all our testers, who have helped us to squash many bugs so that we can try to release builds that as are flawless as possible.
+---------
+[/SIZE][/FONT][/CENTER][/HIDE] 
+
+[CENTER][SIZE="5"][B][COLOR="RoyalBlue"]If You Like My Work?[/COLOR][/B][/SIZE]
+[B]Buy me a Coffee![/B]
+[URL=https://paypal.me/kaderbava]Donate Me![/URL]
+
+[/CENTER]
