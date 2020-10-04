@@ -1,0 +1,236 @@
+[CENTER][IMG]https://raw.githubusercontent.com/Ancient-Lab/manifest/ten/ancient.png[/IMG]
+[CODE]/*
+ * Your warranty is now void.
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/CODE]
+
+[B][SIZE="4"]AncientOS is a Beautiful Custom ROM based on AOSP that aims to provide a unique UI with some useful feautures for customization.[/SIZE][/B]
+
+[IMG]https://github.com/smokey18/XDA/blob/master/images/features.png?raw=true[/IMG]
+
+[B][SIZE="4"]Here are the features & customizations which AncientOS provides.[/SIZE][/B]
+
+
+[HIDE][CODE][LIST]
+[U][B]Ancient Stuff:[/B][/U]
+[•]Refined UI with several OneUI touches and an old vibe with intricate patterns in the Settings App.
+[•]Lots of status Bar mods.
+[•]Lots of new Status bar icons.
+[•]Lots of Headers Styles.
+[•]Lots of new Headers Clocks and Date Styles.
+
+[U][B]STATUSBAR:[/B][/U]
+[•]Statusbar icons.
+[•]Traffic indicators.
+[•]4G Icon Instead of LTE.
+[•]VoLTE icon toggle.
+[•]Clock Customization.
+[•]Battery Customization.
+[•]Battery Bar.
+[•]Old mobile type indication.
+[•]Statusbar padding preferences.
+[•]Battery percentage while changing.
+
+[U][B]Navigation Bar:[/B][/U]
+[•]Navbar invert layout.
+[•]Enable/Disable Navbar.
+
+[U][B]QUICK SETTINGS:[/B][/U]
+[•]QS brightness slider position.
+[•]Battery percentage selection.
+[•]Auto brightness icon toggle.
+[•]Brightness control buttons.
+[•]Quick pulldown option.
+[•]Kill app button.
+[•]Vibrate on touch.
+[•]Blur behind QS.
+[•]QS panel Opacity.
+[•]Tint QS toggles.
+[•]Battery Customization.
+[•]QS Header.
+
+[U][B]LOCKSCREEN:[/B][/U]
+[•]Lots of new Clocks
+[•]Lots of Fonts for Lock, Date and Owner Info.
+[•]Lots of new Date styles.
+[•]Charging info.
+[•]Fingerprint Authentication Vibration.
+[•]Unlock keystore with fingerprint after reboot.
+[•]Lockscreen Weather.
+[•]Lockscreen visualizer.
+[•]Lockscreen media art and Blur customization.
+[•]Disable Quick Settings panel on secure lockscreen.
+[•]Lockscreen charging animation.
+
+[U][B]BUTTONS:[/B][/U]
+[•]H/W keys customization.
+[•]H/W buttons backlight customizations.
+[•]Power Light control.
+
+[U][B]NOTIFICATIONS:[/B][/U]
+[•]Headsup Customizations.
+[•]Incall Vibrations.
+[•]Less boring Headsup.
+[•]Headsup snooze & timeout option.
+
+[U][B]MISC:[/B][/U]
+[•]Three Finger Screenshot.
+[•]Wake on plug.
+
+[U][B]Others:[/B][/U]
+[•]Doubletap or longpress power to toggle flashlight.
+[•]Vibrate in in-call settings.
+[•]RGB Accent picker.
+
+[/LIST][/CODE][/HIDE]
+
+[IMG]https://github.com/smokey18/XDA/blob/master/images/changelogs.png?raw=true[/IMG]
+
+[HIDE][CODE][LIST]
+[U][B]Changelogs v3.9:[/B][/U]
+[•]August security patch (r41)
+[•]Removed selinux switch
+[•]Improve fod
+[•]Swipe up on keyguard to use FU
+[•]Fixed edit tile keep pressed while not expanded
+[•]Fixed double tap to check phone
+[•]Fixed SystemUI crash with custom volume panel
+[•]Change default scale animations
+[•]Improved gaming mode
+[•]Disable notification vibration
+[•]Improve edge lightning from ion OS
+[•]Update interval weather
+[•]Live data usage
+[•]Added option for selecting SBC HD codec by default
+[•]Added option for a2dp codec priority
+[•]Added fod pressed
+[•]Added Quick QS brightness slider
+[•]Added Color OS 7 FP animations
+[•]Added realme pressed
+[•]Added Ancient FOS
+[•]Added Pattern 4x4 - 6x6
+[•]Added toogle for gradient QS Background
+[•]Added QS Tile Styles (also add ancient tiles)
+[•]Added QS Clock Style
+[•]Added QS Analog Style
+[•]Added QS Themes
+[•]Added Settings Style
+[•]Added statusbar height for dual row
+[•]Added Settings dashboard icons
+[•]Added slim recents
+[•]Added Switch Styles
+[•]Added QS Label options (accent, gradient)
+[•]Added new QS tint
+[•]Added disable quick settings on LS
+[•]Added Quick settings pulldown
+[•]Added Smart Pulldown
+[•]Added LiveDisplay
+[•]Added sensor block package list
+[•]Added QS tint mode (random, disco)
+[•]Added toogle to hide lock icon on LS
+[•]Added Ancient Widget Clock
+[•]Added longpress power to toogle torch
+[•]Added allow VPN Tethering
+[•]Added Notifications ticker
+[•]Many More
+
+[/LIST][/CODE][/HIDE]
+
+[img]https://github.com/smokey18/XDA/blob/master/images/downloads.png?raw=true[/img]
+[SIZE="4"][B][U][COLOR="Brown"]
+Download ROM here for your device![/COLOR][/U][/B][/SIZE]
+[color=navy][URL="https://www.pling.com/p/1409114/"][SIZE="3"][B]GApps Build[/B][/SIZE][/URL][/color]
+[color=navy] [URL="https://www.pling.com/p/1409114/"][SIZE="3"][B]Vanilla Build[/B][/SIZE][/URL][/color]
+
+[img]https://github.com/smokey18/XDA/blob/master/images/installation.png?raw=true[/img]
+[SIZE="5"][B][U][COLOR="Brown"]
+Flashing Instructions[/COLOR][/U][/B][/SIZE]
+
+[SIZE="5"][color="#c3a13f"][B]CLEAN FLASH[/B][/SIZE][/COLOR]
+[COLOR="red"]Make Sure you are Flashing it over Realme UI Firmware/ Don't flash it over Color os Firmware!![/COLOR]
+- Make sure you're running the latest TWRP/OrangeFox
+- Boot into recovery
+- Wipe System, vendor, data, cache and dalvik cache 
+- Flash  ROM.zip
+- Format data
+- Reboot to recovery (optional)
+- Flash Magisk.zip (optional)
+- Reboot to system
+[SIZE="5"][color="#c3a13f"][B]DIRTY FLASH[/B][/SIZE][/COLOR]
+- Boot into recovery
+- Wipe cache and dalvik cache only
+- Flash  ROM.zip
+- Reboot to recovery (optional)
+- Flash Magisk.zip (optional)
+- Reboot to system
+[b] First boot will take few minutes! Have patience! 
+Clean Flash is always recommended![/b]
+
+[img]https://github.com/smokey18/XDA/blob/master/images/sources.png?raw=true[/img]
+[URL="https://github.com/Ancient-Lab"]
+[SIZE="3"][B]AncientOS Source[/B][/SIZE][/URL]
+[URL="https://github.com/ancient-devices"][SIZE="3"][B]Ancient-Devices Source[/SIZE][/B][/URL]
+[URL="https://github.com/kaderbava/android_kernel_realme_RMX1921"][SIZE="3"][B]Kernel Source[/B][/SIZE][/URL]
+
+[SIZE="6"][color="#c3a13f"][B]Telegram[/B][/SIZE][/COLOR]
+[SIZE="3"][B][URL="https://t.me/ancientid"]Ancient Group[/URL][/B]
+[B][URL="https://t.me/ancientrom"]Ancient Channel[/URL] [/B]
+[B][URL="https://t.me/RealmeXTofficial"]Device Support Group[/URL][/B][/SIZE]
+
+[img]https://github.com/smokey18/XDA/blob/master/images/credit.png?raw=true[/img]
+[B][SIZE="3"]
+AOSP
+LineageOS
+SuperiorOS
+DotOS
+PixelExperience
+AospExtended
+Syberia OS
+Nitrogen OS
+Pixys OS
+ArrowOS
+MSM-Xtended
+HavocOS
+BootleggersROM
+ABC
+Rebellion
+Komodo
+Durex aka Corvus
+DerpFest
+Evolution-X
+OMNIROM
+AOSIP
+Liquid Remix
+Resurrection Remix
+Dirty Unicorns
+Bliss
+ExtendedUI
+AICP
+MoKee
+RevengeOS
+Yodita
+POSP
+ION
+crDroid
+GZOSP
+Colt-Enigma
+[/SIZE][/B]
+
+[U][B][SIZE="4"][FONT="Arial Black"][COLOR="#c3a13f"]REPORTING BUGS[/COLOR][/FONT][/SIZE][/B][/U]
+As soon as the problem occurs, take a logcat!
+[URL="https://github.com/nathanchance/Android-Tools/blob/master/Guides/Proper_Bug_Reporting.txt"]for more details READ THIS[/URL]
+
+[img]https://github.com/smokey18/XDA/blob/master/images/donate.png?raw=true[/img]
+[B][SIZE="3"]If you like our work then please consider donating.[/SIZE][/B]
+[B]Support Lead Developers:[/B]
+[URL]https://www.paypal.me/rezaadipangestu[/URL] 
+[URL]https://www.paypal.me/baloseribu[/URL]
+[B]Support Device Maintainer:[/B]
+[URL]http://paypal.me/kaderbava[/URL]
+
+[/CENTER]
